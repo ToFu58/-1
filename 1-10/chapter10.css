@@ -74,6 +74,7 @@ footer {
   main {
     margin: 30px;
     width: 100%;
+    position: center;
     display: flex;
     flex-direction: column;
   }
